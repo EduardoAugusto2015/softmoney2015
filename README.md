@@ -18,5 +18,5 @@ Elton Fonseca, Eduardo Augusto Petreca, Marilia Vilas Boas.
 ##Agradecimento:
 
 Agradecimento especial ao Professor Leonardo Marcelino que ajudou muito nos ensinando java orientado a objetos e ensinando 
-a criar do banco de dados em derby.
+a criar o banco de dados em derby.
 
