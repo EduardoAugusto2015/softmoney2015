@@ -16,6 +16,7 @@ biblioteca jfreechart para criação dos gráficos, Apache Commons Email para re
 Elton Fonseca, Eduardo Augusto Petreca, Marilia Vilas Boas.
 
 ##Agradecimento:
+
 Agradecimento especial ao Professor Leonardo Marcelino que ajudou muito nos ensinando java orientado a objetos e ensinando 
 a criar do banco de dados em derby.
 
